@@ -1,0 +1,23 @@
+E:\Study\GUI Application Development using VB.net\Project\Student Record Management System\Student Record Management System\bin\Debug\Student Record Management System.exe.config
+E:\Study\GUI Application Development using VB.net\Project\Student Record Management System\Student Record Management System\obj\Debug\Student_Record_Management_System.Form1.resources
+E:\Study\GUI Application Development using VB.net\Project\Student Record Management System\Student Record Management System\obj\Debug\Student_Record_Management_System.Resources.resources
+E:\Study\GUI Application Development using VB.net\Project\Student Record Management System\Student Record Management System\obj\Debug\Student Record Management System.vbproj.GenerateResource.Cache
+E:\Study\GUI Application Development using VB.net\Project\Student Record Management System\Student Record Management System\bin\Debug\Student Record Management System.exe
+E:\Study\GUI Application Development using VB.net\Project\Student Record Management System\Student Record Management System\bin\Debug\Student Record Management System.pdb
+E:\Study\GUI Application Development using VB.net\Project\Student Record Management System\Student Record Management System\bin\Debug\Student Record Management System.xml
+E:\Study\GUI Application Development using VB.net\Project\Student Record Management System\Student Record Management System\obj\Debug\Student Record Management System.exe
+E:\Study\GUI Application Development using VB.net\Project\Student Record Management System\Student Record Management System\obj\Debug\Student Record Management System.xml
+E:\Study\GUI Application Development using VB.net\Project\Student Record Management System\Student Record Management System\obj\Debug\Student Record Management System.pdb
+E:\Study\GUI Application Development using VB.net\Project\Student Record Management System - Copy (2)\Student Record Management System\bin\Debug\Student Record Management System.exe.config
+E:\Study\GUI Application Development using VB.net\Project\Student Record Management System - Copy (2)\Student Record Management System\obj\Debug\Student Record Management System.exe
+E:\Study\GUI Application Development using VB.net\Project\Student Record Management System - Copy (2)\Student Record Management System\obj\Debug\Student Record Management System.xml
+E:\Study\GUI Application Development using VB.net\Project\Student Record Management System - Copy (2)\Student Record Management System\obj\Debug\Student Record Management System.pdb
+E:\Study\GUI Application Development using VB.net\Project\Student Record Management System - Copy (2)\Student Record Management System\bin\Debug\CO_Sem_IV.accdb
+E:\Study\GUI Application Development using VB.net\Project\Student Record Management System - Copy (2)\Student Record Management System\bin\Debug\Student Record Management System.exe
+E:\Study\GUI Application Development using VB.net\Project\Student Record Management System - Copy (2)\Student Record Management System\bin\Debug\Student Record Management System.pdb
+E:\Study\GUI Application Development using VB.net\Project\Student Record Management System - Copy (2)\Student Record Management System\bin\Debug\Student Record Management System.xml
+E:\Study\GUI Application Development using VB.net\Project\Student Record Management System - Copy (2)\Student Record Management System\obj\Debug\Student_Record_Management_System.Form1.resources
+E:\Study\GUI Application Development using VB.net\Project\Student Record Management System - Copy (2)\Student Record Management System\obj\Debug\Student_Record_Management_System.Resources.resources
+E:\Study\GUI Application Development using VB.net\Project\Student Record Management System - Copy (2)\Student Record Management System\obj\Debug\Student Record Management System.vbproj.GenerateResource.Cache
+E:\Study\GUI Application Development using VB.net\Project\Student Record Management System\Student Record Management System\bin\Debug\CO_Sem_IV.accdb
+E:\Study\GUI Application Development using VB.net\Project\Student Record Management System\Student Record Management System\obj\Debug\Student_Record_Management_System.LoginForm.resources
